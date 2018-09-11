@@ -1,5 +1,5 @@
-# Technical Wriing Plain Text/Github Practice 
-### With a side of caffeine-induced sass...
+# Technical Writing Plain Text/Github Practice 
+#### With a side of caffeine-induced sass...
 
 ## Current Workflow Strategy
 Currently, I use Microsoft Word to write papers because I don't like GoogleDocs WHATSOEVER. I write my paper, proofread, have a friend proofread, edit, and save to mulitple places. I use 2 flashdrives and email the documents to myself on both my Google account and my school email. 
