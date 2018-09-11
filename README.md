@@ -18,3 +18,6 @@ To track changes, I print the document and use a red pen (so I can see it) and m
 4) Never...Seriously...Like...Ever To quote the Beast (kind of) *clears throat* --- NEVERMOOOOOORRREEEE!!!!!
 
 ###### #sorrynotsorry
+
+Oh...And here's a link thingy... 
+[DID IT WORK?](https://search.proquest.com/docview/197737769/19DE44B678B84CF6PQ/2?accountid=130237)
