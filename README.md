@@ -15,6 +15,6 @@ To track changes, I print the document and use a red pen (so I can see it) and m
 1) We'll see. I'm very set in my ways and may or may not use what is taught in this class after I am finished with it.
 2) Maybe Markdown...I don't know. It's fun to just see things in plain text, but I don't know if I'll ever use it outside of this class.
 3) I will probably never use Github again. So...
-4) Never...Seriously...Like...Ever To quote the Beast (kind of) **clears throat** --- NEVERMOOOOOORRREEEE!!!!!
+4) Never...Seriously...Like...Ever To quote the Beast (kind of) *clears throat* --- NEVERMOOOOOORRREEEE!!!!!
 
 ###### #sorrynotsorry
