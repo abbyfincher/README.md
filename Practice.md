@@ -11,8 +11,9 @@ Class: is this still tech-writing?
 
 *but I can do this*
 **and this**
+I tihnk we were supposed to upload something, so here's a document. 
 
-## Andalusians Are Awesome
+## Andalusians of The World Today
 
   Andalusian horses originated on the Iberian Peninsula and descended from Barb and Iberian horses brought to Spain by invading Moors. The Andalusian’s name originates from the Province of Andalucía in Spain. Cave paintings that date back to 20,000 years ago depict a similar horse to the Andalusian. There are even mentions of Andalusians in Homer’s Iliad. The Andalusian later influenced Lippizano, Lusitano, Paso Fino, Peruvian, and a handful of other breeds.
 
@@ -28,3 +29,20 @@ The Andalusian heavily varies in cost. An unregistered Andalusian can be sold fo
 Andalusians were once used as war horses in cavalries, which is why it was bred to be docile and calm. They were the preferred mount for Spanish kings and queens in the middle ages and were first used for dressage by Spanish and Portuguese kings who recognized the horse’s potential in the classical riding style. Today, the horse is used as a general riding horse and for competitions. Andalusians are used in Spain today for bullfighting and other traditional Spanish pursuits. The horse is also used mainly for classical riding, dressage, and show jumping. Some western riding competitors use Andalusians for reigning, cutting, and western pleasure competitions. Many ranch owners today also use the horse for traditional ranch work. 
 	
 The breed association, located in Birmingham, Alabama, has an extensive history, beginning in 1964 when the first Andalusian arrived in the United States. Around the same time, the American Andalusian Horse Association (AAHA) was formed and they began a studbook for the Andalusian. In 1977, a separate group of horse breeders met and developed a new organization and a new studbook: the International Andalusian Horse Association (IAHA). During the 1990s, efforts began to merge the two organizations and separate studbooks. In this time, the AAHA changed its name to the American Andalusian and Lusitano Association (AALA). In 1995, both the AALA and IAHA merged and formed the International Andalusian and Lusitano Horse Association (IALHA). 
+ 
+
+- everything
+- is 
+- awesome
+
+Things Abby needs:
+1)  sleep
+2) coffee
+3) a hug
+4) a muffin
+5) a cat to snuggle
+6) someone to play with my hair
+7) more sleep
+8) not to be sick
+
+###### sorry I fell asleep in your class. it's not normal, i promise. 
