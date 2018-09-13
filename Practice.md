@@ -12,7 +12,7 @@ Class: is this still tech-writing?
 *but I can do this*
 **and this**
 
-#Andalusians Are Awesome
+## Andalusians Are Awesome
 
   Andalusian horses originated on the Iberian Peninsula and descended from Barb and Iberian horses brought to Spain by invading Moors. The Andalusian’s name originates from the Province of Andalucía in Spain. Cave paintings that date back to 20,000 years ago depict a similar horse to the Andalusian. There are even mentions of Andalusians in Homer’s Iliad. The Andalusian later influenced Lippizano, Lusitano, Paso Fino, Peruvian, and a handful of other breeds.
 
