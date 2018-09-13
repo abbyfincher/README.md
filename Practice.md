@@ -1,11 +1,10 @@
-
-----
+---
 Title: Making stuff up 101
 Author: the sleepy redhead in the back
 Date: the 5th of last week
 Type: sleep deprivaiton and stress-induced crying
 Class: is this still tech-writing?
-----
+---
 
 # I Fell Asleep
 ## And Now I Don't Know What's Going On...
